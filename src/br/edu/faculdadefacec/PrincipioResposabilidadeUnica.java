@@ -31,7 +31,7 @@ public class PrincipioResposabilidadeUnica {
         Vendedor vendedorUm =
                 new Vendedor("Vendedor Um", 3500.00);
 
-        System.out.println("NOME | SALÁRIO");
+        System.out.println("SRP: NOME | SALÁRIO");
 
         System.out.println(estagiarioUm.getNome() + " | " +
                 estagiarioUm.getSalario());

@@ -32,7 +32,7 @@ public class PrincipioAbertoFechado {
                 new Estagiario("Estagiário Dois", 1500.00);
         estagiarioDois.setEndereco("RUA CBA 123");
 
-        System.out.println("NOME | SALÁRIO | ENDEREÇO");
+        System.out.println("OCP: NOME | SALÁRIO | ENDEREÇO");
 
         System.out.println(estagiarioDois.getNome() + " | " +
                 estagiarioDois.getSalario() + " | " +
