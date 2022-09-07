@@ -7,5 +7,6 @@ public class Main {
 	    PrincipioAbertoFechado.Executar();
         PrincipioSubstituicaoLiskov.Executar();
         PrincipioSegregacaoInterface.Executar();
+        PrincipioInjecaoDependencia.Executar();
     }
 }
